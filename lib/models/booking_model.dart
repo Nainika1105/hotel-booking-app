@@ -6,7 +6,7 @@ class BookingModel {
   final int adults;
   final int children;
   final double totalPrice;
-  String status; // 👈 NEW
+  String status;
 
   BookingModel({
     required this.id,
